@@ -1,0 +1,10 @@
+# 데이터
+data/rellis3d/images/
+data/rellis3d/labels/
+*.cache
+
+# 학습 결과
+runs/
+__pycache__/
+*.pt
+*.log
