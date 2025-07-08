@@ -133,7 +133,7 @@ If you use SGGA in your research, please cite:
 ## 🙋‍♀️ Author
 
 **Dayena Jeong**
-M.S. Student @ SEOULTECH, Defense Applied AI Lab
+M.S. Student @ SEOULTECH, MINT Lab🍀
 📫 [LinkedIn](https://linkedin.com/in/dayenajeong) · 📧 [pasteldiana@seoultech.ac.kr](mailto:pasteldiana@seoultech.ac.kr)
 
 ---
